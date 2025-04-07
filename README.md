@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Rodrigo Assis, tenho 19 anos e sou natural de Minas Gerais (Belo Horizonte). Concluí o ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Ahanguera (Pitágoras). Sou apaixonado por tecnologia.
+Me chamo Rodrigo Assis, tenho 19 anos e sou natural de Minas Gerais (Belo Horizonte). Concluí o ensino médio. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na univencidade Ahanguera (Pitágoras). Sou apaixonado por tecnologia.
 <p align="left">
     <a href="https://github.com/RodrigoAssis7?tab=repositories&sort=stargazers">
         <img 
