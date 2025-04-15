@@ -1,8 +1,10 @@
 # 👩🏻‍💻 Rodrigo Assis
 
 **`Desenvolvedor Backend`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ADD8E6&center=true&vCenter=true&width=800&lines=Bem-vindo(a)!+Eu+sou+Rodrigo+Assis!;Desenvolvedor+Backend+Python%2FDjango." alt="Typing SVG" />
+</p>
 
-Ola chamo Rodrigo Assis
 <p align="left">
       <a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </a>
