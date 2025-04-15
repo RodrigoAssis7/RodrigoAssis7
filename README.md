@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ADD8E6&center=true&vCenter=true&width=800&lines=Bem-vindo(a)!+Eu+sou+Rodrigo+Assis!;Desenvolvedor+Backend+Python%2FDjango." alt="Typing SVG" />
 </p>
 
+## Opa, eu sou o Rodrigo Assis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+
+- Desenvolvedor backend
+- Gosto de resolver problemas 
+
+---
+
 <p align="left">
       <a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </a>
