@@ -6,15 +6,9 @@ Ola chamo Rodrigo Assis
 <p align="left">
       <a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     </a>
-    <a href="https://github.com/RodrigoAssis7?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RodrigoAssis7?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-
-
+ <a href="mailto:rodrigoassis7741@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 
 </p>
 
@@ -107,6 +101,19 @@ Ola chamo Rodrigo Assis
 <br/>
 <br/>
 
+---
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/strvictor/strvictor/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📊 Estatísticas
 
 <p>
@@ -126,3 +133,6 @@ Ola chamo Rodrigo Assis
   />
 
 </p>
+
+
+
