@@ -15,6 +15,8 @@
  <a href="mailto:rodrigoassis7741@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+    <a href="https://drive.google.com/file/d/1DmgxzDqvAbSS6icRep1z-wVAMtBVpY1D/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/-curriculo-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    </a>
 
 </p>
 
