@@ -34,7 +34,7 @@
 
 ---
 
-Linguagens e Tecnologias
+<strong>Linguagens e Tecnologias</strong>
 
 <img 
     align="left" 
@@ -82,7 +82,7 @@ Linguagens e Tecnologias
 
 ---
 
-Estatísticas
+<b>Estatísticas</b>
 
 <p>
   <img 
