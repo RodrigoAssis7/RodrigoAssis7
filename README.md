@@ -1,16 +1,13 @@
-# 👩🏻‍💻 Rodrigo Assis
+👩🏻‍💻 Rodrigo Assis
 
 **`Desenvolvedor Backend`**
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ADD8E6&center=true&vCenter=true&width=800&lines=Bem-vindo(a)!+Eu+sou+Rodrigo+Assis!;Desenvolvedor+Backend+Python%2FDjango." alt="Typing SVG" />
 </p>
 
-## Opa, eu sou o Rodrigo Assis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
 - Desenvolvedor backend
 - Gosto de resolver problemas 
 
----
 
 <p align="left">
       <a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -23,7 +20,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -59,14 +56,6 @@
 />
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -86,25 +75,14 @@
 <br/>
 
 ---
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/strvictor/strvictor/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 📊 Estatísticas
+Estatísticas
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RodrigoAssis7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -112,7 +90,7 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAssis7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
