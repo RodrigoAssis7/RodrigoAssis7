@@ -9,15 +9,27 @@
 - Gosto de resolver problemas 
 
 
-<p align="left">
-      <a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </a>
- <a href="mailto:rodrigoassis7741@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<p align="left" style="display: flex; gap: 16px;">
+  <a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    >
   </a>
-    <a href="https://drive.google.com/file/d/1DmgxzDqvAbSS6icRep1z-wVAMtBVpY1D/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/-curriculo-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </a>
 
+  <a href="mailto:rodrigoassis7741@gmail.com" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Gmail"
+    >
+  </a>
+
+  <a href="https://drive.google.com/file/d/1DmgxzDqvAbSS6icRep1z-wVAMtBVpY1D/view?usp=drive_link" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Currículo-%23006400?style=for-the-badge&logoColor=white" 
+      alt="Currículo"
+    >
+  </a>
 </p>
 
 ---
