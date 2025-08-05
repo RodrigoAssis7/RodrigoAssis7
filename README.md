@@ -24,7 +24,7 @@
     >
   </a>
 
-  <a href="https://drive.google.com/file/d/1DmgxzDqvAbSS6icRep1z-wVAMtBVpY1D/view?usp=drive_link" target="_blank">
+  <a href="[https://drive.google.com/file/d/1DmgxzDqvAbSS6icRep1z-wVAMtBVpY1D/view?usp=drive_link](https://drive.google.com/file/d/1DmgxzDqvAbSS6icRep1z-wVAMtBVpY1D/view?usp=drive_link)" target="_blank">
     <img 
       src="https://img.shields.io/badge/Currículo-%23006400?style=for-the-badge&logoColor=white" 
       alt="Currículo"
