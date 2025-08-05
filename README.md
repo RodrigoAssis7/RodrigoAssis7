@@ -8,29 +8,30 @@
 - Desenvolvedor backend
 - Gosto de resolver problemas 
 
+---
+<b>contatos</b>
 
-<p align="left" style="display: flex; gap: 16px;">
-  <a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    >
-  </a>
+<a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/174/174857.png" 
+    alt="LinkedIn" 
+    width="48" 
+    height="48"
+    style="border-radius: 8px;"
+  >
+</a>
 
-  <a href="mailto:rodrigoassis7741@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Gmail"
-    >
-  </a>
+<a href="mailto:rodrigoassis7741@gmail.com" target="_blank">
+  <img 
+    src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
+    alt="Gmail" 
+    width="48" 
+    height="48"
+    style="border-radius: 8px;"
+  >
+</a>
 
-  <a href="[https://drive.google.com/file/d/1DmgxzDqvAbSS6icRep1z-wVAMtBVpY1D/view?usp=drive_link](https://drive.google.com/file/d/1DmgxzDqvAbSS6icRep1z-wVAMtBVpY1D/view?usp=drive_link)" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Currículo-%23006400?style=for-the-badge&logoColor=white" 
-      alt="Currículo"
-    >
-  </a>
-</p>
+
 
 ---
 
@@ -101,6 +102,7 @@
   />
 
 </p>
+
 
 
 
