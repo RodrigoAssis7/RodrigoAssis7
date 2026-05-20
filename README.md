@@ -1,15 +1,22 @@
-👩🏻‍💻 Rodrigo Assis
+# 👨🏻‍💻 Rodrigo Assis
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Backend | Python & Django`**
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ADD8E6&center=true&vCenter=true&width=800&lines=Bem-vindo(a)!+Eu+sou+Rodrigo+Assis!;Desenvolvedor+Backend+Python%2FDjango." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=ADD8E6&center=true&vCenter=true&width=800&lines=Bem-vindo(a)!+Eu+sou+Rodrigo+Assis.;Backend+Developer+Python%2FDjango.;Linux+%7C+APIs+%7C+Automa%C3%A7%C3%A3o." alt="Typing SVG" />
 </p>
 
-- Desenvolvedor backend
-- Gosto de resolver problemas 
+---
+
+## Sobre mim
+
+- Desenvolvedor backend focado em Python e Django
+- Interesse em APIs, automação e sistemas web
+- Usuário Linux e entusiasta de infraestrutura
 
 ---
-<b>contatos</b>
+
+## Contato
 
 <a href="https://www.linkedin.com/in/rodrigo-assis7/" target="_blank">
   <img 
@@ -17,7 +24,6 @@
     alt="LinkedIn" 
     width="48" 
     height="48"
-    style="border-radius: 8px;"
   >
 </a>
 
@@ -27,15 +33,12 @@
     alt="Gmail" 
     width="48" 
     height="48"
-    style="border-radius: 8px;"
   >
 </a>
 
-
-
 ---
 
-<strong>Linguagens e Tecnologias</strong>
+## Tecnologias
 
 <img 
     align="left" 
@@ -45,30 +48,34 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Django" 
+    title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -83,7 +90,14 @@
 
 ---
 
-<b>Estatísticas</b>
+## Projetos em destaque
+
+- Sistema de Registro de Alunos
+- Dashboard Linux/Home Server
+
+---
+
+## Estatísticas
 
 <p>
   <img 
@@ -94,15 +108,10 @@
     src="https://github-readme-stats.vercel.app/api?username=RodrigoAssis7&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
+  <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Tecnologias" 
       height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAssis7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoAssis7&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
-
 </p>
-
-
-
-
